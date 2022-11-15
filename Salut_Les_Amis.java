@@ -2,7 +2,7 @@
 /**
  * Décrivez votre classe Salut_Les_Amis ici.
  *
- * @author (votre nom)
+ * @author bg
  * @version (un numéro de version ou une date)
  */
 public class Salut_Les_Amis
